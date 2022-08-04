@@ -1,8 +1,6 @@
 ### Oláaa! Eu sou a Ana Caroline.
 
 
-
-- 🔭 Hoje eu trabalho na aviação como auxiliar administrativa da pista
 - 🌱 Estudando desenvolvimento web e qualidade de software
 - 😄 Pronouns: ela/dela
 
