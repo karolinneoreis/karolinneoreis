@@ -1,8 +1,6 @@
 ### Oláaa! Eu sou a Ana Caroline.
 
 
-- 🌱 Estudando desenvolvimento web e qualidade de software
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/karolinneoreis">
