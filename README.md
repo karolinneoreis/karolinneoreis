@@ -1,4 +1,4 @@
-# Oláaa! Eu sou a Ana Caroline. 👋
+0# Oláaa! Eu sou a Ana Caroline. 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;Apaixonada+por+criar+soluções+modernas;Sempre+aprendendo+e+evoluindo✨" />
@@ -6,8 +6,8 @@
 
 ---
 
-<p align="center">
-  <img src="body(2).png" width="400"/>
+<p align="right">
+  <img src="computador.png" width="300"/>
 </p>
 
 ## 🚀 Sobre mim
