@@ -7,7 +7,7 @@
 ---
 
 <p align="right">
-  <img src="computador.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/karolinneoreis/karolinneoreis/main/computador.png.png" width="300"/>
 </p>
 
 ## 🚀 Sobre mim
