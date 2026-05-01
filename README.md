@@ -1,26 +1,25 @@
-# Oláaa! Eu sou a Ana Caroline 👋
+# Oláaa! Eu sou a Ana Caroline. 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9B59B6&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;Apaixonada+por+criar+interfaces;Sempre+aprendendo+e+evoluindo✨">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;Apaixonada+por+criar+soluções+modernas;Sempre+aprendendo+e+evoluindo✨" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedora Front-end em formação  
-🎯 Foco em criar soluções modernas, acessíveis e bonitas  
-✨ Apaixonada por transformar ideias em código  
-
-📍 São Paulo, SP  
+Desenvolvedora Front-end em formação, com foco em criar soluções modernas, acessíveis e centradas no usuário.  
+Aqui você encontra alguns dos projetos que desenvolvi enquanto estudo e evoluo como dev! 🚀
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -34,20 +33,23 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 💜 Projetos em destaque
 
-🔹 [Formulário de Cadastro](https://github.com/karolinneoreis/formulario-de-cadastro)  
-📄 Página feita com HTML, CSS e JavaScript  
+### 📄 Formulário de Cadastro
+Página de formulário com HTML, CSS e JavaScript  
 
-🔹 [Jogo da Velha](https://github.com/karolinneoreis/jogo-da-velha)  
-🎮 Jogo interativo usando JavaScript  
+### 🌐 Single Page Application
+Introdução à criação de sites com HTML5 e CSS3  
 
-🔹 [Desafios de Lógica](https://github.com/karolinneoreis/desafio-logica)  
-🧠 Exercícios para treinar programação  
+### 🎮 Jogo da Velha
+Jogo interativo com JavaScript  
+
+### 🧠 Desafios de Lógica
+Exercícios de lógica de programação (#7DaysOfCode)
 
 ---
 
-## 💜 Status
+## 💫 Status
 
-✨ Sempre aprendendo e evoluindo na programação  
-🚀 Em busca da minha primeira oportunidade como dev  
+✨ Sempre aprendendo e evoluindo  
+🚀 Em busca da minha primeira oportunidade como desenvolvedora  
