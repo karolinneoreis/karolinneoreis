@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="f8f87e61-d448-40cc-9d86-baf4a53e26d3 .png" width="400"/>
+  <img src="BODY(2).png" width="400"/>
 </p>
 
 ## 🚀 Sobre mim
