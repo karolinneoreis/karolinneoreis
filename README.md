@@ -1,4 +1,4 @@
-0# Oláaa! Eu sou a Ana Caroline. 👋
+# Oláaa! Eu sou a Ana Caroline. 👋
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/karolinneoreis/karolinneoreis/main/computador.png.png" width="250"/>
