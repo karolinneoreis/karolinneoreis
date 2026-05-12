@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full-Stack;Apaixonada+por+criar+soluções+modernas;Sempre+aprendendo+e+evoluindo✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full-Stack;AApaixonada+por+criar+soluções+modernas;Sempre+aprendendo+e+evoluindo✨" />
 </p>
 
 ---
