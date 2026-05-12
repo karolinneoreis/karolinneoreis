@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedora Front-end em formação, com foco em criar soluções modernas, acessíveis e centradas no usuário.  
+Desenvolvedora em formação, com foco em criar soluções modernas, acessíveis e centradas no usuário.  
 Aqui você encontra alguns dos projetos que desenvolvi enquanto estudo e evoluo como dev! 🚀
 
 ---
